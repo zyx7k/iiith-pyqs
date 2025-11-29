@@ -91,6 +91,8 @@ For a full overview of all the available papers, please check the course tree in
     ├───Behavioral Research Statistical Methods
     │   └───spring_25
     │       └───assignments
+    ├───Biomolecular Structure Interaction and Dynamics
+    │   └───monsoon_24
     ├───CMOS References And Regulators
     │   └───monsoon_24
     ├───Communications and Controls in IoT
@@ -118,6 +120,8 @@ For a full overview of all the available papers, please check the course tree in
     │   └───monsoon_24
     │       └───assignments
     ├───Hardware for AI
+    │   └───monsoon_25
+    ├───Information Retrieval and Extraction
     │   └───monsoon_25
     ├───Intro to Algorithm Engineering
     │   └───spring_24
