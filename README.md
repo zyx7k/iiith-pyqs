@@ -1,4 +1,4 @@
-# Course Material
+# Previous Year Papers
 
 This repository contains previous year question papers and assignment PDFs for various courses from IIIT Hyderabad. It includes materials for core courses, electives, and common subjects like DSA, Linear Algebra, and more.
 
