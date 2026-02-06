@@ -16,7 +16,17 @@ Overall repository structure:
 │   └───ecx
 │       └───<courses>
 └───electives
-    └───<courses>
+│   ├───csx
+│   │   └───<courses>
+│   ├───ecx
+│   │   └───<courses>
+│   ├───humanities
+│   │   └───<courses>
+│   ├───math
+│   │   └───<courses>
+│   └───science
+│       └───<courses>
+
 ```
 
 For each course the structure is:
