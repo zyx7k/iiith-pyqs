@@ -8,24 +8,24 @@ If raising a PR, please adhere to this structure and naming scheme.
 
 ```text
 .
-├───core
-│   ├───common
-│   │   └───<courses>
-│   ├───cxx
-│   │   └───<courses>
-│   └───ecx
-│       └───<courses>
-└───electives
-│   ├───csx
-│   │   └───<courses>
-│   ├───ecx
-│   │   └───<courses>
-│   ├───humanities
-│   │   └───<courses>
-│   ├───math
-│   │   └───<courses>
-│   └───science
-│       └───<courses>
+├── core
+│   ├── common
+│   │   └── <courses>
+│   ├── cxx
+│   │   └── <courses>
+│   └── ecx
+│       └── <courses>
+└── electives
+    ├── csx
+    │   └── <courses>
+    ├── ecx
+    │   └── <courses>
+    ├── humanities
+    │   └── <courses>
+    ├── math
+    │   └── <courses>
+    └── science
+        └── <courses>
 
 ```
 
